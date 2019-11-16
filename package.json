@@ -1,0 +1,23 @@
+{
+  "name": "sgt_m4_1019",
+  "version": "1.0.0",
+  "description": "SGT with database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scbowler/sgt_m4_1019.git"
+  },
+  "author": "Scott Bowler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scbowler/sgt_m4_1019/issues"
+  },
+  "homepage": "https://github.com/scbowler/sgt_m4_1019#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.0.0"
+  }
+}
